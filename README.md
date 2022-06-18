@@ -34,7 +34,7 @@ only top 3 songs per artist which brings the scraping time for writers down to c
 
 ### Scraping instructions
 
-Edit main.py and set (at the top of the file) your CLIENT_ID and CLIENT_SECRET from Spotify API. In addition 
+Edit main.py and set (at the top of the file) your CLIENT_ID and CLIENT_SECRET from Spotify API. In addition, 
 you will have to collect your "Bearer token" from your browser when you login to https://open.spotify.com/ and
 also save it at the top of the file in the TOKEN variable.
 

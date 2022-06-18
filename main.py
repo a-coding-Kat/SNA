@@ -2,9 +2,9 @@ import json
 import spotipy
 from scraper import scrape_tracks, scrape_artists, scrape_writers
 
-CLIENT_ID = "YOUR CLIENT_ID HERE"
-CLIENT_SECRET = "YOUR CLIENT_SECRET HERE"
-TOKEN = "YOUR TOKEN HERE"
+CLIENT_ID = "YOUR_CLIENT_ID_HERE"
+CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
+TOKEN = "YOUR_TOKEN_HERE"
 START_ARTIST = "Lana Del Rey"
 N_ARTIST_TO_SCRAPE = 10000
 
