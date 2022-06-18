@@ -5,7 +5,7 @@ import spotipy
 from spotipy import SpotifyClientCredentials
 
 CLIENT_ID = "YOUR CLIENT_ID HERE"
-CLIENT_SECRET = "YOUR CLIENT_SERCRET HERE"
+CLIENT_SECRET = "YOUR CLIENT_SECRET HERE"
 
 
 def scrape(sp, artist_ids):

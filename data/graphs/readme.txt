@@ -1,1 +1,1 @@
-Graphs generated in the Jupyer Notebook go into this folder.
+Graphs generated in the Jupyter Notebook go into this folder.

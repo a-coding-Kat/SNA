@@ -3,7 +3,7 @@ import spotipy
 from scraper import scrape_tracks, scrape_artists, scrape_writers
 
 CLIENT_ID = "YOUR CLIENT_ID HERE"
-CLIENT_SECRET = "YOUR CLIENT_SERCRET HERE"
+CLIENT_SECRET = "YOUR CLIENT_SECRET HERE"
 TOKEN = "YOUR TOKEN HERE"
 START_ARTIST = "Lana Del Rey"
 N_ARTIST_TO_SCRAPE = 10000
