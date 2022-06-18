@@ -1,0 +1,1 @@
+Data scraped from Spotify API goes into this folder.
