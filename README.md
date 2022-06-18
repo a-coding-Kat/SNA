@@ -16,7 +16,7 @@ The required libraries are specified in the requirements.txt file. You need to i
 If you want to skip the scraping stage, which in total takes cca. 17h, I have published 
 the already scraped data:
 
-    URL
+    https://drive.google.com/file/d/1dOeBhi7MZaWnJL9REY_4e13FJ849kMJO/view?usp=sharing
     
 Download the file and unzip it in the folder "data/". You will also get the already generated GEXF graph files.
  
