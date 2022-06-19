@@ -3,7 +3,7 @@ import json
 from time import sleep
 
 
-TOKEN = "YOUR TOKEN HERE"
+TOKEN = "YOUR_TOKEN_HERE"
 
 
 def scrape(token, track_ids):
