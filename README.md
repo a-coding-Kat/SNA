@@ -14,11 +14,11 @@ The required libraries are specified in the requirements.txt file. You need to i
 ## Data
 
 If you want to skip the scraping stage, which in total takes cca. 17h, I have published 
-the already scraped data:
+the already scraped data and graph files:
 
-    https://drive.google.com/file/d/1dOeBhi7MZaWnJL9REY_4e13FJ849kMJO/view?usp=sharing
+    https://drive.google.com/file/d/1E9itO0aoc-UHOPRXewhRZnHuxrQli-Ol/view?usp=sharing
     
-Download the file and unzip it in the folder "data/". You will also get the already generated GEXF graph files.
+Download the file and unzip it in the folder "data/". You will also get the already generated GEXF and graphML graph files.
  
 Scraping takes a long time due to the Spotify API limits. This limits are not clearly specified and we 
 have to err on the side of caution to be able to continue to scrape.
